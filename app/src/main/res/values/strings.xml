@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HiveConnect</string>
+
+
+    <string name="heading1">HIGH QUALITY VIDEO CONFERENCING</string>
+    <string name="heading2">LIST OF MEETINGS TO ATTEND</string>
+    <string name="heading3">SCHEDULE MEETINGS</string>
+
+    <string name="Desc1">Meet Your Friends and Professors </string>
+    <string name="Desc2">Check Meeting Date and Time and Join Meeting </string>
+    <string name="Desc3">Create Meeting At Your Own Time </string>
+</resources>
